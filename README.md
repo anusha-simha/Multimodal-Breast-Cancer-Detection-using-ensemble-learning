@@ -1,1 +1,2 @@
-In this project I have used two data sets - mammogram images and ultrasound images. 
+In this project I have used two data sets - mammogram images and ultrasound images. I have used resnet and mobilenet for feature extraction . After the extraction of features I have concatenated them. Then I used endemble learning model containing logistic regression, XGboost and Random forest. I have also added a highlighting function that highlights the cancerous portion of the image. Additionally, I implemented a tumor size measuring function that accurately measures the size of the tumor. Furthermore, I included a treatment recommendation function that suggests appropriate treatments based on the tumor measurements. The accuracy of the ensemble learning model is 97.05%.
+
