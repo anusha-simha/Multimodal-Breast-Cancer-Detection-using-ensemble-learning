@@ -2,12 +2,15 @@ In this project I have used two data sets - mammogram images and ultrasound imag
 
 ![momo nc](https://github.com/user-attachments/assets/294f2867-9a11-40ae-907c-f6537f01748b)
 ![mamo c](https://github.com/user-attachments/assets/9a7179f8-e976-4768-b431-142a8148cc54)
-![mamo c](https://github.com/user-attachments/assets/510a2910-0333-4de6-a572-d60932ffa43b)
-![u nc](https://github.com/user-attachments/assets/7f9c120f-b2c8-4acd-83fc-e08b87bd1895)
-![u nc](https://github.com/user-attachments/assets/cdb8d521-6d6e-4fbd-b394-a48d092d870b)
-![u nc](https://github.com/user-attachments/assets/10de9f6c-323e-4ba4-bf2c-a6ce3f6a8d77)
-![u nc](https://github.com/user-attachments/assets/dff26d6e-72dc-4f20-a324-eadee867ef32)
-![u nc](https://github.com/user-attachments/assets/64d04aa7-5ab6-4ca4-8da2-7142721c0bb7)
+![u c](https://github.com/user-attachments/assets/fe064a62-8c7c-40f9-a32b-9904bb59c62f)
+![u nc](https://github.com/user-attachments/assets/620418d1-ad67-4a60-aa9e-73a84a273396)
+
+Final Deployed Model
+![Screenshot (180)](https://github.com/user-attachments/assets/305b7a37-a311-4947-85a6-d55c9c2a4b0b)
+![Screenshot (182)](https://github.com/user-attachments/assets/fdbefe4c-10eb-41ca-aa33-279af20ef60a)
+![Screenshot (181)](https://github.com/user-attachments/assets/431ae4ef-89a0-47ef-a080-8eeb2f4f8a40)
+![Screenshot (179)](https://github.com/user-attachments/assets/bd07b531-08b3-4356-8bb3-6abede162378)
+![Screenshot (186)](https://github.com/user-attachments/assets/b1d4611b-0aba-4913-9e3c-1582cca49e51)
 ![Screenshot (187)](https://github.com/user-attachments/assets/33954d4e-1b2b-4715-85f0-c5b24c0ca5e0)
 ![Screenshot (188)](https://github.com/user-attachments/assets/4ee14035-0e9d-4ec2-b4f8-906c48ca7c5b)
 ![Screenshot (189)](https://github.com/user-attachments/assets/5a883bc1-d375-4f8a-830d-3bff8d68ec4b)
