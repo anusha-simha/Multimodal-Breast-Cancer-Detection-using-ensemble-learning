@@ -7,8 +7,8 @@ In this project I have used two data sets - mammogram images and ultrasound imag
 
 Final Deployed Model
 ![Screenshot (180)](https://github.com/user-attachments/assets/305b7a37-a311-4947-85a6-d55c9c2a4b0b)
-![Screenshot (182)](https://github.com/user-attachments/assets/fdbefe4c-10eb-41ca-aa33-279af20ef60a)
 ![Screenshot (181)](https://github.com/user-attachments/assets/431ae4ef-89a0-47ef-a080-8eeb2f4f8a40)
+![Screenshot (182)](https://github.com/user-attachments/assets/fdbefe4c-10eb-41ca-aa33-279af20ef60a)
 ![Screenshot (179)](https://github.com/user-attachments/assets/bd07b531-08b3-4356-8bb3-6abede162378)
 ![Screenshot (186)](https://github.com/user-attachments/assets/b1d4611b-0aba-4913-9e3c-1582cca49e51)
 ![Screenshot (187)](https://github.com/user-attachments/assets/33954d4e-1b2b-4715-85f0-c5b24c0ca5e0)
